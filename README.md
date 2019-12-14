@@ -1,2 +1,2 @@
-# python-pkg-bilerplate
+# python-pkg-boilerplate
 python pkg template repository.
