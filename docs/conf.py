@@ -12,6 +12,7 @@
 #
 # import os
 # import sys
+# sys.path.insert(0, '/Users/toshis/repos/github.com/ramnext/python-pkg-boilerplate/src/python_pkg_boilerplate')
 
 
 # -- Project information -----------------------------------------------------

@@ -1,6 +1,6 @@
 include tox.ini
 
-graft test
+graft tests
 graft examples
 graft docs
 

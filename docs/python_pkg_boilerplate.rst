@@ -7,7 +7,7 @@ Submodules
 python\_pkg\_boilerplate.cli module
 -----------------------------------
 
-.. automodule:: python_pkg_boilerplate.cli
+.. automodule:: src.python_pkg_boilerplate.cli
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ python\_pkg\_boilerplate.cli module
 python\_pkg\_boilerplate.core module
 ------------------------------------
 
-.. automodule:: python_pkg_boilerplate.core
+.. automodule:: src.python_pkg_boilerplate.core
    :members:
    :undoc-members:
    :show-inheritance:
@@ -24,7 +24,7 @@ python\_pkg\_boilerplate.core module
 Module contents
 ---------------
 
-.. automodule:: python_pkg_boilerplate
+.. automodule:: src.python_pkg_boilerplate
    :members:
    :undoc-members:
    :show-inheritance:
